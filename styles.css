@@ -95,6 +95,9 @@ rect {
 .fab{
     color:#3D82FF;
 }
+.fab:hover{
+    transform:scale(0.8);
+}
 h3{
     color:#3D82FF;
 }
